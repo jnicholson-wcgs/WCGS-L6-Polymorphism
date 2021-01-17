@@ -1,0 +1,2 @@
+run='mcs -unsafe -out:shapes.exe shapes.cs ; mono shapes.exe'
+language = "csharp"
