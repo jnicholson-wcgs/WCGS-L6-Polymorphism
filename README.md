@@ -21,5 +21,5 @@ It must call the base class getName() and add to string describing the radius of
 Task 4
 
 Process the lists of shapes in main() to call the area() method for each shape.
-Determine why the area method for specific shapess is not drawn - you will need to reseach
+Determine why the area method for specific shapess is not called - you will need to reseach
 overriding and abstract classes.
